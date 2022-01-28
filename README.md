@@ -1,3 +1,5 @@
 # Review-Checklist
 
-- It generates report in pdf format
+- Generates report in pdf format
+- All the validations are applied
+- Has two theme - White/Black
